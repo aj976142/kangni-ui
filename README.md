@@ -1,4 +1,4 @@
 # kangni-ui
 
 ## Introduction
-This is sample program
+This is sample program.
